@@ -5,10 +5,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
 
-// HEJ Thomas
-// HEJ SIMON
-// Ny kommentar
-//ny igeeeeeeeen
+//Kun 1 kommentar nu
 
 public class Hovedmenu {
 	static Scanner scan = new Scanner(System.in);
@@ -77,6 +74,6 @@ public class Hovedmenu {
 
 	public static void udskrivDato() {
 		System.out.println();
-		System.out.println(LocalDate.now().format(DateTimeFormatter.ofPattern("dd-MM-yyyy")));
+		System.out.println(LocalDate.now().format(DateTimeFormatter.ofPattern("dd.MM.yyyy")));
 	}
 }
