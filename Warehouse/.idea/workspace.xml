@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f493aaa-be95-4d56-8a14-96ca5cdaf40f" name="Default Changelist" comment="" />
+    <list default="true" id="5f493aaa-be95-4d56-8a14-96ca5cdaf40f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZexP6kBXuCOjMMLMQQNZQekyrl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,11 +38,16 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -47,8 +60,9 @@
       <recent name="$PROJECT_DIR$/Test/demo" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SampleAssertionsTest.testAssertFalse">
-    <configuration name="LocalShopTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Main" />
       <module name="Warehouse" />
       <extension name="coverage">
         <pattern>
@@ -56,10 +70,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="demo" />
-      <option name="MAIN_CLASS_NAME" value="demo.LocalShopTest" />
-      <option name="METHOD_NAME" value="findAll" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,18 +140,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.LocalShopTest.removeAll" />
-      <item itemvalue="JUnit.LocalShopTest.findAll" />
       <item itemvalue="JUnit.SampleAssertionsTest.testAssertArrayEquals" />
       <item itemvalue="JUnit.SampleAssertionsTest.testAssertEquals" />
       <item itemvalue="JUnit.SampleAssertionsTest.testAssertFalse" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.SampleAssertionsTest.testAssertFalse" />
         <item itemvalue="JUnit.SampleAssertionsTest.testAssertEquals" />
         <item itemvalue="JUnit.SampleAssertionsTest.testAssertArrayEquals" />
         <item itemvalue="JUnit.LocalShopTest.removeAll" />
-        <item itemvalue="JUnit.LocalShopTest.findAll" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +169,7 @@
       <workItem from="1586615967462" duration="236000" />
       <workItem from="1587017877254" duration="8523000" />
       <workItem from="1588234550575" duration="745000" />
+      <workItem from="1599124437723" duration="255000" />
     </task>
     <servers />
   </component>
@@ -166,91 +177,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="287" y="189" key="#com.intellij.ide.util.MemberChooser" timestamp="1585559442381">
-      <screen x="0" y="23" width="1440" height="809" />
+    <state x="128" y="23" width="1024" height="722" key="SettingsEditor" timestamp="1599124713443">
+      <screen x="0" y="0" width="1280" height="745" />
     </state>
-    <state x="-39" y="-840" key="#com.intellij.ide.util.MemberChooser/0.23.1440.809/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585553849334" />
-    <state x="287" y="189" key="#com.intellij.ide.util.MemberChooser/0.23.1440.809@0.23.1440.809" timestamp="1585559442381" />
-    <state x="-39" y="-840" key="#com.intellij.ide.util.MemberChooser/0.23.1440.811/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585215198690" />
-    <state width="1223" height="219" key="GridCell.Tab.0.bottom" timestamp="1585818832655">
-      <screen x="-549" y="-1057" width="2560" height="1057" />
-    </state>
-    <state width="1223" height="219" key="GridCell.Tab.0.bottom/0.23.1440.809/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585818832655" />
-    <state width="1309" height="219" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1585570361356" />
-    <state width="1223" height="263" key="GridCell.Tab.0.bottom/0.23.1440.811/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585242968819" />
-    <state width="1223" height="263" key="GridCell.Tab.0.bottom/0.23.1440.877/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585248355199" />
-    <state width="1223" height="219" key="GridCell.Tab.0.center" timestamp="1585818832655">
-      <screen x="-549" y="-1057" width="2560" height="1057" />
-    </state>
-    <state width="1223" height="219" key="GridCell.Tab.0.center/0.23.1440.809/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585818832655" />
-    <state width="1309" height="219" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1585570361355" />
-    <state width="1223" height="263" key="GridCell.Tab.0.center/0.23.1440.811/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585242968818" />
-    <state width="1223" height="263" key="GridCell.Tab.0.center/0.23.1440.877/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585248355199" />
-    <state width="1223" height="219" key="GridCell.Tab.0.left" timestamp="1585818832654">
-      <screen x="-549" y="-1057" width="2560" height="1057" />
-    </state>
-    <state width="1223" height="219" key="GridCell.Tab.0.left/0.23.1440.809/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585818832654" />
-    <state width="1309" height="219" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1585570361355" />
-    <state width="1223" height="263" key="GridCell.Tab.0.left/0.23.1440.811/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585242968817" />
-    <state width="1223" height="263" key="GridCell.Tab.0.left/0.23.1440.877/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585248355199" />
-    <state width="1223" height="219" key="GridCell.Tab.0.right" timestamp="1585818832655">
-      <screen x="-549" y="-1057" width="2560" height="1057" />
-    </state>
-    <state width="1223" height="219" key="GridCell.Tab.0.right/0.23.1440.809/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585818832655" />
-    <state width="1309" height="219" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1585570361356" />
-    <state width="1223" height="263" key="GridCell.Tab.0.right/0.23.1440.811/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585242968818" />
-    <state width="1223" height="263" key="GridCell.Tab.0.right/0.23.1440.877/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585248355199" />
-    <state width="1309" height="257" key="GridCell.Tab.1.bottom" timestamp="1585562199553">
-      <screen x="0" y="23" width="1440" height="809" />
-    </state>
-    <state width="1223" height="336" key="GridCell.Tab.1.bottom/0.23.1440.809/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585235661964" />
-    <state width="1309" height="257" key="GridCell.Tab.1.bottom/0.23.1440.809@0.23.1440.809" timestamp="1585562199553" />
-    <state width="1223" height="336" key="GridCell.Tab.1.bottom/0.23.1440.811/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585236130850" />
-    <state width="1309" height="257" key="GridCell.Tab.1.center" timestamp="1585562199552">
-      <screen x="0" y="23" width="1440" height="809" />
-    </state>
-    <state width="1223" height="336" key="GridCell.Tab.1.center/0.23.1440.809/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585235661963" />
-    <state width="1309" height="257" key="GridCell.Tab.1.center/0.23.1440.809@0.23.1440.809" timestamp="1585562199552" />
-    <state width="1223" height="336" key="GridCell.Tab.1.center/0.23.1440.811/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585236130849" />
-    <state width="1309" height="257" key="GridCell.Tab.1.left" timestamp="1585562199552">
-      <screen x="0" y="23" width="1440" height="809" />
-    </state>
-    <state width="1223" height="336" key="GridCell.Tab.1.left/0.23.1440.809/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585235661962" />
-    <state width="1309" height="257" key="GridCell.Tab.1.left/0.23.1440.809@0.23.1440.809" timestamp="1585562199552" />
-    <state width="1223" height="336" key="GridCell.Tab.1.left/0.23.1440.811/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585236130849" />
-    <state width="1309" height="257" key="GridCell.Tab.1.right" timestamp="1585562199553">
-      <screen x="0" y="23" width="1440" height="809" />
-    </state>
-    <state width="1223" height="336" key="GridCell.Tab.1.right/0.23.1440.809/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585235661963" />
-    <state width="1309" height="257" key="GridCell.Tab.1.right/0.23.1440.809@0.23.1440.809" timestamp="1585562199553" />
-    <state width="1223" height="336" key="GridCell.Tab.1.right/0.23.1440.811/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585236130850" />
-    <state x="309" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1587018185505">
-      <screen x="0" y="23" width="1440" height="809" />
-    </state>
-    <state x="309" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.809/-549.-1057.2560.1057@0.23.1440.809" timestamp="1587018185505" />
-    <state x="-138" y="-640" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585810209881">
-      <screen x="-549" y="-1057" width="2560" height="1057" />
-    </state>
-    <state x="-138" y="-640" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.809/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585810209881" />
-    <state x="-86" y="-807" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585810264271">
-      <screen x="-549" y="-1057" width="2560" height="1057" />
-    </state>
-    <state x="-86" y="-807" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.809/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585810264271" />
-    <state x="149" y="159" width="896" height="621" key="dock-window-1" timestamp="1585235698256">
-      <screen x="0" y="23" width="1440" height="809" />
-    </state>
-    <state x="149" y="159" width="896" height="621" key="dock-window-1/0.23.1440.809/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585235698256" />
-    <state x="-470" y="-918" key="new project wizard" timestamp="1585809989504">
-      <screen x="-549" y="-1057" width="2560" height="1057" />
-    </state>
-    <state x="-470" y="-918" key="new project wizard/0.23.1440.809/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585809989504" />
-    <state x="-132" y="-932" key="refactoring.ChangeSignatureDialog" timestamp="1585228676432">
-      <screen x="-549" y="-1057" width="2560" height="1057" />
-    </state>
-    <state x="-132" y="-932" key="refactoring.ChangeSignatureDialog/0.23.1440.809/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585228676432" />
-    <state x="-187" y="-836" width="670" height="676" key="search.everywhere.popup" timestamp="1585214290907">
-      <screen x="-549" y="-1057" width="2560" height="1057" />
-    </state>
-    <state x="-187" y="-836" width="670" height="676" key="search.everywhere.popup/0.23.1440.811/-549.-1057.2560.1057@-549.-1057.2560.1057" timestamp="1585214290907" />
+    <state x="128" y="23" width="1024" height="722" key="SettingsEditor/0.0.1280.745@0.0.1280.745" timestamp="1599124713443" />
   </component>
 </project>
