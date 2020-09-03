@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 // HEJ Thomas
 // HEJ SIMON
+// Ny kommentar
 
 public class Hovedmenu {
 	static Scanner scan = new Scanner(System.in);

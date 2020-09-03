@@ -32,6 +32,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -93,7 +96,9 @@
       <workItem from="1584448501759" duration="943000" />
       <workItem from="1585053316873" duration="1922000" />
       <workItem from="1599118098036" duration="149000" />
-      <workItem from="1599122200427" duration="36000" />
+      <workItem from="1599122200427" duration="256000" />
+      <workItem from="1599122878736" duration="57000" />
+      <workItem from="1599122959357" duration="249000" />
     </task>
     <servers />
   </component>
@@ -101,25 +106,45 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="323" y="36" key="#Main" timestamp="1599122838815">
+      <screen x="0" y="0" width="1280" height="745" />
+    </state>
+    <state x="323" y="36" key="#Main/0.0.1280.745@0.0.1280.745" timestamp="1599122838815" />
+    <state x="377" y="184" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599122837946">
+      <screen x="0" y="0" width="1280" height="745" />
+    </state>
+    <state x="377" y="184" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.745@0.0.1280.745" timestamp="1599122837946" />
+    <state x="474" y="308" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1599122908181">
+      <screen x="0" y="0" width="1280" height="745" />
+    </state>
+    <state x="474" y="308" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.745@0.0.1280.745" timestamp="1599122908181" />
     <state x="232" y="0" key="CommitChangelistDialog2" timestamp="1599122232050">
       <screen x="0" y="0" width="1280" height="745" />
     </state>
     <state x="232" y="0" key="CommitChangelistDialog2/0.0.1280.745@0.0.1280.745" timestamp="1599122232050" />
-    <state width="1222" height="179" key="GridCell.Tab.0.bottom" timestamp="1599118246488">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1599123223011">
+      <screen x="0" y="0" width="1280" height="745" />
     </state>
     <state width="1222" height="179" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599118246488" />
-    <state width="1222" height="179" key="GridCell.Tab.0.center" timestamp="1599118246488">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.745@0.0.1280.745" timestamp="1599123223011" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1599123223009">
+      <screen x="0" y="0" width="1280" height="745" />
     </state>
     <state width="1222" height="179" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599118246488" />
-    <state width="1222" height="179" key="GridCell.Tab.0.left" timestamp="1599118246488">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.745@0.0.1280.745" timestamp="1599123223009" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1599123223008">
+      <screen x="0" y="0" width="1280" height="745" />
     </state>
     <state width="1222" height="179" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599118246488" />
-    <state width="1222" height="179" key="GridCell.Tab.0.right" timestamp="1599118246488">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.745@0.0.1280.745" timestamp="1599123223008" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1599123223010">
+      <screen x="0" y="0" width="1280" height="745" />
     </state>
     <state width="1222" height="179" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599118246488" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.745@0.0.1280.745" timestamp="1599123223010" />
+    <state x="128" y="0" key="SettingsEditor" timestamp="1599123320001">
+      <screen x="0" y="0" width="1280" height="745" />
+    </state>
+    <state x="128" y="0" key="SettingsEditor/0.0.1280.745@0.0.1280.745" timestamp="1599123320001" />
   </component>
 </project>
