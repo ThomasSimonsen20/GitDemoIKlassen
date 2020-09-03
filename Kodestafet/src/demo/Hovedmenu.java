@@ -4,6 +4,9 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
+
+// HEJ Thomas
+
 public class Hovedmenu {
 	static Scanner scan = new Scanner(System.in);
 	static String ynglingsRet = "";
