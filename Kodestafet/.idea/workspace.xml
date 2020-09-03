@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e078d50-0e49-4a19-b424-34d19fb6d19f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Kodestafet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Kodestafet.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/Hovedmenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/Hovedmenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +27,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
@@ -99,6 +93,7 @@
       <workItem from="1584448501759" duration="943000" />
       <workItem from="1585053316873" duration="1922000" />
       <workItem from="1599118098036" duration="149000" />
+      <workItem from="1599122200427" duration="36000" />
     </task>
     <servers />
   </component>
@@ -106,6 +101,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="232" y="0" key="CommitChangelistDialog2" timestamp="1599122232050">
+      <screen x="0" y="0" width="1280" height="745" />
+    </state>
+    <state x="232" y="0" key="CommitChangelistDialog2/0.0.1280.745@0.0.1280.745" timestamp="1599122232050" />
     <state width="1222" height="179" key="GridCell.Tab.0.bottom" timestamp="1599118246488">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
